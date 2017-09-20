@@ -1,1 +1,1 @@
-# docker-burst-plotter
+burst-plotter
